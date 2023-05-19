@@ -1,3 +1,6 @@
-<center><p>👋 Привет, я 👨🏻‍💻 @Blackflame576! Я python программист. 🐍 Python изучаю уже 3 года.</p></center>
-Сайт: https://blackflame576.up.railway.app/
-Telegram: https://t.me/Blackflame576
+<center>
+  <p>👋 Привет, я 👨🏻‍💻 @Blackflame576! Я python программист. 🐍 Python изучаю уже 3 года.</p>
+  <p>💬 Telegram: https://t.me/Blackflame576</p>
+  <p>💲 Фриланс - биржа Kwork: https://kwork.ru/user/blackflame576 </p>
+  <p>ℹ️ Сайт: (https://blackflame.onrender.com/)</p>
+</center>
