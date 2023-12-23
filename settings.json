@@ -1,0 +1,37 @@
+{
+    "[python]": {
+        
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "cmake.configureOnOpen": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    // "workbench.colorCustomizations": {},
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c23",
+    "C_Cpp.default.includePath": [
+        "./src/include"
+    ],
+    "[cmake]": {
+
+    },
+    "cmake.generator": "",
+    "cmake.preferredGenerators": [
+        "Ninja"
+    ],
+    "cmake.buildDirectory": "${workspaceFolder}/build/",
+    "workbench.colorCustomizations": {
+        "editor.background": "#1e1e1e",
+        "editor.selectionBackground": "#3a3d41",
+        "statusBar.background": "#5a34a0",
+        "statusBarItem.remoteBackground": "#5a34a0",
+        "button.background": "#2aa29f",
+        "button.hoverBackground":"#258c8a",
+    },
+    "workbench.colorTheme": "Syntax Material Dark"
+}
